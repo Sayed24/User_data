@@ -1,1 +1,69 @@
 
+{
+ "users":[
+  {
+   "id":1,
+   "name":"John Doe",
+   "email":"john@example.com",
+   "phone":"555-1234",
+   "city":"New York",
+   "avatar":"https://i.pravatar.cc/150?img=1"
+  },
+  {
+   "id":2,
+   "name":"Sarah Smith",
+   "email":"sarah@example.com",
+   "phone":"555-5678",
+   "city":"Los Angeles",
+   "avatar":"https://i.pravatar.cc/150?img=2"
+  },
+  {
+   "id":3,
+   "name":"David Johnson",
+   "email":"david@example.com",
+   "phone":"555-7890",
+   "city":"Chicago",
+   "avatar":"https://i.pravatar.cc/150?img=3"
+  },
+  {
+   "id":4,
+   "name":"Emily Brown",
+   "email":"emily@example.com",
+   "phone":"555-1111",
+   "city":"Dallas",
+   "avatar":"https://i.pravatar.cc/150?img=4"
+  },
+  {
+   "id":5,
+   "name":"Michael Lee",
+   "email":"michael@example.com",
+   "phone":"555-2222",
+   "city":"Seattle",
+   "avatar":"https://i.pravatar.cc/150?img=5"
+  },
+  {
+   "id":6,
+   "name":"Olivia Wilson",
+   "email":"olivia@example.com",
+   "phone":"555-3333",
+   "city":"Boston",
+   "avatar":"https://i.pravatar.cc/150?img=6"
+  },
+  {
+   "id":7,
+   "name":"Daniel Clark",
+   "email":"daniel@example.com",
+   "phone":"555-4444",
+   "city":"Miami",
+   "avatar":"https://i.pravatar.cc/150?img=7"
+  },
+  {
+   "id":8,
+   "name":"Sophia Davis",
+   "email":"sophia@example.com",
+   "phone":"555-5555",
+   "city":"San Diego",
+   "avatar":"https://i.pravatar.cc/150?img=8"
+  }
+ ]
+}
